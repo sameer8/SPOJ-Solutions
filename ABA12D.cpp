@@ -15,7 +15,7 @@ void precompute(){
 }
 
  main(){
- 	int t;
+ 	int t,x;
  	scanf("%d",&t);
  	while(t--){
  		int a,b;
