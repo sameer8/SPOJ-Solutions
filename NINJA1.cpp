@@ -27,7 +27,8 @@ main()
 				}
 			}
 		}
-		if(flag)cout<<"NO\n";
+		if(flag)cout<<"NO"<<endl;
 		else cout<<"YES\n";
 	}
 }
+
