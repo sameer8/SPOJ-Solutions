@@ -4,7 +4,7 @@ using namespace std;
 
 main()
 {
-	int t;
+	int t,kk;
 	cin>>t;
 	while(t--){
 		long long int n;
@@ -26,6 +26,7 @@ main()
 			tem=s[temp]+tem;
 			n/=2;
 		}
+		
 		cout<<tem<<endl;
 	}
 }
