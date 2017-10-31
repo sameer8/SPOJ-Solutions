@@ -7,7 +7,7 @@ main()
 	cin>>t;
 	for(int k=1;k<=t;k++)
 	{
-		int n,r,x,y;
+		int n,r,x,y,kk;
 		cin>>n>>r;
 		int a[n+1],p[n+1];
 		for(int i=0;i<=n;i++)
