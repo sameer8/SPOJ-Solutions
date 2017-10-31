@@ -3,7 +3,7 @@ using namespace std;
 
 main(){
 	char s[10];
-	int t;
+	int t,kk;
 	cin>>t;
 	while(t--){
 		for(int i=0;i<9;i++)
